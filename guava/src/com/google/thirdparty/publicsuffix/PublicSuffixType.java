@@ -14,8 +14,6 @@
 
 package com.google.thirdparty.publicsuffix;
 
-import com.google.common.annotations.GwtCompatible;
-
 /**
  * Specifies the type of a top-level domain definition.
  */
